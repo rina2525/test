@@ -334,17 +334,3 @@ h3 {
   padding-bottom: 30px;
 }
 
-.contact-heading,
-.contact-textbox,
-.contact-textarea {
-  display: block;
-  width: 100%;
-}
-
-.contact-heading {
-  margin-bottom: 0.5em;
-}
-
-.contact-span {
-  color: red;
-}
